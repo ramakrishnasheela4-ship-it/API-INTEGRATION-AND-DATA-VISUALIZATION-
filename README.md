@@ -22,3 +22,4 @@ Once data is collected through API Integration, Data Visualization transforms ra
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/38f0acc2-3567-4e37-b432-513db78dd0f9)
